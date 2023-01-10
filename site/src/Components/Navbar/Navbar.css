@@ -1,0 +1,8 @@
+.nav-link {
+    color: gainsboro;
+    font-weight: bold;
+}
+.navbar-toggler {
+    color: white !important;
+    background-color: white;
+}
